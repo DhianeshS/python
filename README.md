@@ -34,19 +34,3 @@ def play_game():
 
 if __name__ == "__main__":
     play_game()
-
-💡 Features:
-
-Accepts case-insensitive user input.
-
-Validates input until the user enters a correct option.
-
-Displays both user and computer choices.
-
-Announces the result: win, lose, or tie.
-
-
-🕹 To make it replayable:
-
-Add a loop to keep playing until the user wants to quit. Let me know if you want that version too!
-
